@@ -7,3 +7,4 @@ index.html
 style.css
 <br>
 script.js
+Author Name: Bhavesh Narwani.
